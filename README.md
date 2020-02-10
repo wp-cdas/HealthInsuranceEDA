@@ -19,4 +19,5 @@ The DSP is built around encouraging reproducible data science, to this end a lot
 
 If you have some other idea for how you'd like to work on this project (environments, tools, etc) please get into contact with Bryan Jonas.
 
-
+### Source of data
+The data we will be using for this project comes from here: https://www.kaggle.com/hhs/health-insurance-marketplace
