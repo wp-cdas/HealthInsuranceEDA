@@ -1,4 +1,4 @@
-# HealthInsuranceEDA
+# Health Insurance Exploratory Data Analysis Project
 
 This repository is meant to provide some tips and tricks for the Health Insurance Exploratory Data Analysis Project that is part of the AY20 Data Scientist PDSI program.  As part of this repository you will find several files that will help you access the data files stored on the Data Science Playground (DSP) as well guide you in managing your work.
 
