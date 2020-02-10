@@ -1,6 +1,6 @@
 # Health Insurance Exploratory Data Analysis Project
 
-This repository is meant to provide some tips and tricks for the Health Insurance Exploratory Data Analysis Project that is part of the AY20 Data Scientist PDSI program.  As part of this repository you will find several files that will help you access the data files stored on the Data Science Playground (DSP) as well guide you in managing your work.
+This repository is meant to provide some tips and tricks for the Health Insurance Exploratory Data Analysis Project that is part of the AY20 Data Scientist PDSI program.  As part of this repository you will find several files that will help you access the data files stored on the Data Science Playground (DSP) as well as guide you in managing your work.
 
 ### The most import message! 
 Please remember that there is no private file persistence on the DSP and therefore you are responsible for having a plan to store your files somewhere.  We recommend that you get familiar with GitHub and choose to use the JupyterHub's built-in GitHub extension (or even the command line in the Terminal) to push and pull your scripts and notebooks.  Is it possible to download and upload your files from JupyterHub but the extra effort to learn how to use git will pay off in the end.  Whatever scheme you decide to use for saving your work... save your work often.  You never know when the WREN will go down.
