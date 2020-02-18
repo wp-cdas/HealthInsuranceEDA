@@ -21,3 +21,4 @@ If you have some other idea for how you'd like to work on this project (environm
 
 ### Source of data
 The data we will be using for this project comes from here: https://www.kaggle.com/hhs/health-insurance-marketplace
+Data dictionaries are available here: https://www.cms.gov/cciio/resources/data-resources/marketplace-puf
