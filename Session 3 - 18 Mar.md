@@ -1,4 +1,4 @@
-# Spring Semester, Session 2: How do plan rates vary across state?
+# Spring Semester, Session 3: How do plan rates vary across state?
 
 This intent of this session is review your analysis for the question above.
 
